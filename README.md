@@ -18,3 +18,9 @@ The second image is a line graph showing the “5-Day Weather Forecast for Londo
 Together, these charts reflect the power of data visualization in weather analytics. The New Delhi plot is suited for a quick, real-time snapshot of local weather, while the London plot provides temporal weather evolution. These visualizations were developed using data fetched from the OpenWeatherMap API, which is integrated into the project via Python code. The development process—documented in the provided explaintion.docx file—includes installing required libraries (requests, pandas, matplotlib, seaborn, and streamlit), fetching data using the API, and rendering the charts either locally or via a web dashboard using Streamlit.
 
 In essence, this project showcases how combining open-source APIs with Python libraries allows for the creation of dynamic, real-world applications. Users can easily change city names, interact with real-time data, and visualize important climate trends. It is a prime example of using data science to enhance practical awareness, making weather insights more accessible and actionable.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/cee7ccb3-8984-463f-ac67-e01bdabe6f8b)
+
+![Image](https://github.com/user-attachments/assets/d391ab66-454b-40b9-9b79-a57c12fb6892)
